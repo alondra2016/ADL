@@ -1,0 +1,88 @@
+.colWidth12-12 {
+    width:100%;
+}
+.colWidth11-12 {
+    width:91.7%;
+}
+.colWidth10-12 {
+    width:83.3%;
+}
+.colWidth9-12 {
+    width:75%;
+}
+.colWidth8-12 {
+    width:66.7%;
+}
+.colWidth7-12 {
+    width:91.7%;
+}
+.colWidth6-12 {
+
+    width:50%;
+}
+.colWidth5-12 {
+    width:41.7%;
+}
+.colWidth4-12 {
+    width:33.3%;
+}
+.colWidth3-12 {
+    width:25%;
+}
+.colWidth2-12 {
+    width:16.7%;
+}
+.colWidth1-12 {
+    width:08.3%;
+}
+.hi50 {height:50px;}
+.hi300 {height:300px;}
+.hi500 {height:500px;}
+.hi700 {height:700px;}
+.leftCol{float:left;}
+.rightCol{float:right;}
+.flexCentered {
+    display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center ;
+}
+#navbar {
+     background-color:rgba(0,0,0,.7);
+}
+a  {
+   color:white;
+    text-decoration:none;
+}
+img{
+    width:800px;
+    height:450px;
+}
+p{
+    font-family: 'Liu Jian Hao Cao', cursive;
+    margin-left:5px; 
+    margin-right: 5px;
+}
+.hi50{
+    height: 50px;
+    background-color:rgba(0,0,0,.7)
+}
+.hi50 a{
+    color: white;
+    text-decoration: none
+}
+.foto-inicio{
+    width:150%;
+    height:100%;
+}
+.newspaper{
+    column-count: 3;
+    padding:10px;
+    width:100%;
+}
+.quote{
+    margin-left: 500px;
+    margin-right: 500px;
+}
